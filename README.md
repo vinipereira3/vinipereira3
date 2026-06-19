@@ -1,5 +1,6 @@
-Hi there, I'm Vinicius Pereira 👋
-💻 Transitioning into Software Development & IT Support
+## Hi there, I'm Vinicius Pereira 👋
+
+## 💻 Transitioning into Software Development & IT Support
 
 I'm a professional transitioning into the Technology field, bringing experience in customer service, administrative operations, documentation management, and process organization.
 
@@ -7,14 +8,14 @@ My background has helped me develop strong problem-solving, communication, and a
 
 I'm passionate about technology, continuous learning, and creating solutions that improve user experiences and business processes.
 
-🚀 About Me
+## 🚀 About Me
 💻 Transitioning into the IT industry
 🎮 Experience developing projects with Unity and GameMaker
 🔧 Interested in Software Development, IT Support, and Infrastructure
 📚 Constantly learning new technologies and best practices
 🌱 Open to learning new programming languages, frameworks, and tools
 
-💼 Professional Experience
+## 💼 Professional Experience
 Administrative Assistant I | Total Life
 
 Feb 2025 - Present
@@ -27,7 +28,7 @@ Feb 2025 - Present
 
 ° Occupational health documentation support
 
-🎯 Current Focus
+## 🎯 Current Focus
 Software Development
 
 IT Support
