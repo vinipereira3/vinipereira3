@@ -1,4 +1,4 @@
-## Hi there, I'm Vinicius Pereira 👋
+# Hi there, I'm Vinicius Pereira 👋
 
 ## 💻 Transitioning into Software Development & IT Support
 
@@ -9,11 +9,11 @@ My background has helped me develop strong problem-solving, communication, and a
 I'm passionate about technology, continuous learning, and creating solutions that improve user experiences and business processes.
 
 ## 🚀 About Me
-💻 Transitioning into the IT industry
-🎮 Experience developing projects with Unity and GameMaker
-🔧 Interested in Software Development, IT Support, and Infrastructure
-📚 Constantly learning new technologies and best practices
-🌱 Open to learning new programming languages, frameworks, and tools
+- Transitioning into the IT industry 
+- Experience developing projects with Unity and GameMaker
+- Interested in Software Development, IT Support, and Infrastructure 
+- Constantly learning new technologies and best practices 
+- Open to learning new programming languages, frameworks, and tools
 
 ## 💼 Professional Experience
 Administrative Assistant I | Total Life
