@@ -1,6 +1,6 @@
 # Hi there, I'm Vinicius Pereira 👋
 
-## 💻 Transitioning into Software Development & IT Support
+##  Transitioning into Software Development & IT Support
 
 I'm a professional transitioning into the Technology field, bringing experience in customer service, administrative operations, documentation management, and process organization.
 
